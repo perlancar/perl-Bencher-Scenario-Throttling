@@ -1,4 +1,4 @@
-package Bencher::Scenario::Throttling;
+package Bencher::Scenario::DataThrottling;
 
 # AUTHORITY
 # DATE
